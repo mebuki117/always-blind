@@ -1,6 +1,6 @@
 {
   "pack": {
     "pack_format": 5,
-    "description": "プレイヤーの頭上にHPを表示する"
+    "description": "always blindness"
   }
 }
