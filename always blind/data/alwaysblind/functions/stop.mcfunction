@@ -1,0 +1,1 @@
+scoreboard players set @a ab_bool 0

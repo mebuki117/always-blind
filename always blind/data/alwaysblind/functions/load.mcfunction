@@ -1,0 +1,1 @@
+scoreboard objectives add ab_bool dummy
