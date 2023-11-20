@@ -1,0 +1,1 @@
+effect give @a[gamemode=!creative,gamemode=!spectator] minecraft:blindness 2 0 true
